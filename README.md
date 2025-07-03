@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hail and Well Met! 👋
 
 <!--
 **Metal-King-Boo/Metal-King-Boo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## A Little Bit About Myself and My Interests
 
 ```yaml
-A Little Bit About Me and My Interests
+name: Faizu Adam
+location: Maryland
+current_job: Freelance Developer
+education: [
+  School: "Capitol Technology University",
+  Awards: "Magna Cum Laude", "Dean's List",
+  Degree: "Bachelor's in Computer Science"
+]
 
-identifiers {
-  name: Faizu Adam
-  age: 23
-}
+fields_of_interest: [
+  "Backend Development",
+  "Database Management",
+  "Game Development",
+  "Data Science"
+]
+
+technical_background: [
+  "Frontend Developer Intern"
+  "Software Engineer Intern"
+]
+
+currently_learning: [""]
+2025_goals: []
+hobbies: ["Gaming", "Reading", "Art"]
 ```
