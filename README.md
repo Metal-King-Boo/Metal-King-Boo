@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+```yaml
+A Little Bit About Me and My Interests
+
+identifiers {
+  name: Faizu Adam
+  age: 23
+}
+```
