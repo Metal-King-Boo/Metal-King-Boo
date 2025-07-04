@@ -2,9 +2,12 @@
 
 Welcome to my humble abode and and storage for all things code. Take a look around while you're here and come back again to see if anything changed. I'm a freelancer developer, aspiring game dev, and full-time seeker of knowledge. Thanks for visiting and if you want to reach out I can be found [here](https://www.linkedin.com/in/faizu-adam).
 
-## [Space]
+## About Me
 
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://gbf.wiki/Ilsa_(Formal)#/media/File:Npc_zoom_3040599000_02.png) "Ilsa Formal")
+<!--![alt text](ilsa_formal.png)-->
+
+<img src="ilsa_formal.png" alt="Ilsa (Formal) from Granblue Fantasy" style="height: 300px; width:300px;"/> <img src="siegfried_light.png" alt="Siegfried (Light) from Granblue Fantasy" style="height: 300px; width:300px;"/>
+
 
 <!--https://gbf.wiki/Ilsa_(Formal)#/media/File:Npc_zoom_3040599000_02.png
 <img href="https://gbf.wiki/Ilsa_(Formal)#/media/File:Npc_zoom_3040599000_02.png" />
