@@ -1,6 +1,6 @@
-## Hail and Well Met! 👋
+# Hail and Well Met! 👋
 
-Welcome to my humble abode and and storage for all things code. Take a look around while you're here and come back again to see if anything changed. I'm a freelancer developer, aspiring game dev, and full-time seeker of knowledge. Thanks for visiting and if you want to reach out I can be found [here](https://www.linkedin.com/in/faizu-adam).
+##### Welcome to my humble abode and and storage for all things code. Take a look around while you're here and come back again to see if anything changed. I'm a freelancer developer, aspiring game dev, and full-time seeker of knowledge. Thanks for visiting and if you want to reach out I can be found [here](https://www.linkedin.com/in/faizu-adam).
 
 ## About Me
 
