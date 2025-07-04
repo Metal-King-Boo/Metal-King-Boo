@@ -6,7 +6,7 @@ Welcome to my humble abode and and storage for all things code. Take a look arou
 
 <!--![alt text](ilsa_formal.png)-->
 
-<img src="ilsa_formal.png" alt="Ilsa (Formal) from Granblue Fantasy" style="height: 300px; width:300px;"/> <img src="siegfried_light.png" alt="Siegfried (Light) from Granblue Fantasy" style="height: 300px; width:300px;"/>
+<img src="ilsa_formal.png" alt="Ilsa (Formal) from Granblue Fantasy" style="height: 240px; width:240px;"/> <img src="siegfried_light.png" alt="Siegfried (Light) from Granblue Fantasy" style="height: 240px; width:240px;"/> <img src="makura_valentine.png" alt="Makura (Valentine) from Granblue Fantasy" style="height: 240px; width:240px;"/> <img src="nehan_valentine.png" alt="Nehan (Valentine) from Granblue Fantasy" style="height: 240px; width:240px;"/>
 
 
 <!--https://gbf.wiki/Ilsa_(Formal)#/media/File:Npc_zoom_3040599000_02.png
