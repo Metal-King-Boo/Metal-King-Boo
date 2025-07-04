@@ -1,17 +1,11 @@
 # Hail and Well Met! 👋
 
-##### Welcome to my humble abode and and storage for all things code. Take a look around while you're here and come back again to see if anything changed. I'm a freelancer developer, aspiring game dev, and full-time seeker of knowledge. Thanks for visiting and if you want to reach out I can be found [here](https://www.linkedin.com/in/faizu-adam).
+ Welcome to my humble abode and and storage for all things code. Take a look around while you're here and come back again to see if anything changed. I'm a freelancer developer, aspiring game dev, and full-time seeker of knowledge. Thanks for visiting and if you want to reach out I can be found [here](https://www.linkedin.com/in/faizu-adam).
 
 ## About Me
 
-<!--![alt text](ilsa_formal.png)-->
-
 <img src="nehan_valentine.png" alt="Nehan (Valentine) from Granblue Fantasy" style="height: 270px; width:270px;"/> <img src="ilsa_formal.png" alt="Ilsa (Formal) from Granblue Fantasy" style="height: 270px; width:270px;"/> <img src="makura_valentine.png" alt="Makura (Valentine) from Granblue Fantasy" style="height: 270px; width:270px;"/>
 
-
-<!--https://gbf.wiki/Ilsa_(Formal)#/media/File:Npc_zoom_3040599000_02.png
-<img href="https://gbf.wiki/Ilsa_(Formal)#/media/File:Npc_zoom_3040599000_02.png" />
--->
 ## More About Me
 
 ```yaml
