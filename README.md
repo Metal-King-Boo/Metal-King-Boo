@@ -1,21 +1,15 @@
 ## Hail and Well Met! 👋
 
-<!--
-**Metal-King-Boo/Metal-King-Boo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my humble abode and and storage for all things code. Take a look around while you're here and come back again to see if anything changed. I'm a freelancer developer, aspiring game dev, and full-time seeker of knowledge. Thanks for visiting and if you want to reach out I can be found [here](https://www.linkedin.com/in/faizu-adam).
 
-Here are some ideas to get you started:
+## [Space]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://gbf.wiki/Ilsa_(Formal)#/media/File:Npc_zoom_3040599000_02.png) "Ilsa Formal")
+
+<!--https://gbf.wiki/Ilsa_(Formal)#/media/File:Npc_zoom_3040599000_02.png
+<img href="https://gbf.wiki/Ilsa_(Formal)#/media/File:Npc_zoom_3040599000_02.png" />
 -->
-
-## A Little Bit About Myself and My Interests
+## More About Me
 
 ```yaml
 name: Faizu Adam
@@ -39,7 +33,28 @@ technical_background: [
   "Software Engineer Intern"
 ]
 
-currently_learning: [""]
-2025_goals: []
+currently_learning: ["Unity", "Docker", "AWS", "Malware"]
+2025_goals: ["Create 5 Unity Projects", "Be Consistent", "Remastering the Fundamentals"]
 hobbies: ["Gaming", "Reading", "Art"]
 ```
+
+<h2> &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="json" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+</p>
+
+
+            
+          
+          
